@@ -1,4 +1,4 @@
 # CCPE
 Wildfire Smoke Detection with Cross Contrast Patch Embedding
 
-Code and data are being collated. It is expected to be made public by the end of January 2024.
+Code and data are being collated. They will be published after the papers have been accepted.
