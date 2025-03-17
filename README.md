@@ -132,7 +132,7 @@ We will provide the Finetuned Model Links after the review phase
 If you use this code or dataset in your research, please cite this project.
 
 ```
-@article{mmdetection,
+@article{CCPE,
   title   = {Wildfire Smoke Detection with Cross Contrast Patch Embedding},
   author  = {},
   journal= {},
