@@ -63,7 +63,7 @@ FIgLib
 ```
 - **SKLFS-WildFire**
   
-  Same as FIgLib. However, SKLFS-WildFire does not set a validation set, and users can self split from the training set
+We don't provide the training set of SKLFS-WildFire. You can [download]() the testing set of SKLFS-WildFire for evaluation. 
 ```
 SKLFS-WildFire
 ├── train
@@ -115,21 +115,18 @@ SKLFS-WildFire
 
 
 ## Finetuned Models
-We will provide the Finetuned Model Links after the review phase
+The Finetuned Model is provided:
 
 | Model                 | Download     |
 |-----------------------|--------------|
-| Single Frame FIgLib   | [download]() |
+| Single Frame FIgLib   |[download]()  |
 | Mulit-Frame FIgLib    |[download]()  |
-| SKLFS-WildFire    |[download]()  |
+| SKLFS-WildFire        |[download]()  |
 
 
+## Citation 
 
-
-
-## Citation (Not Available)
-
-If you use this code or dataset in your research, please cite this project.
+If you use this code or dataset in your research, please cite this paper.
 
 ```
 @article{https://doi.org/10.1155/int/1610145,
