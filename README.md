@@ -1,5 +1,5 @@
 # CCPE
-Pytorch implementation of the paper "Wildfire Smoke Detection with Cross Contrast Patch Embedding"
+Pytorch implementation of the paper "Wildfire Smoke Detection System: Model Architecture, Training Mechanism, and Dataset"
 
 ## Introduction
 - **Cross Contrast Patch Embedding (CCPE) module**
@@ -132,11 +132,14 @@ We will provide the Finetuned Model Links after the review phase
 If you use this code or dataset in your research, please cite this project.
 
 ```
-@article{CCPE,
-  title   = {Wildfire Smoke Detection with Cross Contrast Patch Embedding},
-  author  = {},
-  journal= {},
-  year={}
+@article{https://doi.org/10.1155/int/1610145,
+author = {Wang, Chong and Xu, Chen and Akram, Adeel and Wang, Zhong and Shan, Zhilin and Zhang, Qixing},
+title = {Wildfire Smoke Detection System: Model Architecture, Training Mechanism, and Dataset},
+journal = {International Journal of Intelligent Systems},
+volume = {2025},
+number = {1},
+pages = {1610145},
+year = {2025}
 }
 ```
 
