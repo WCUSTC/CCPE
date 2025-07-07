@@ -119,9 +119,9 @@ The Finetuned Model is provided:
 
 | Model                 | Download     |
 |-----------------------|--------------|
-| Single Frame FIgLib   |[download]()  |
-| Mulit-Frame FIgLib    |[download]()  |
-| SKLFS-WildFire        |[download]()  |
+| Single Frame FIgLib   |[download](https://rec.ustc.edu.cn/share/dbde0240-5b1b-11f0-83c4-0324303d4d7f)  |
+| Mulit-Frame FIgLib    |[download](https://rec.ustc.edu.cn/share/dbde0240-5b1b-11f0-83c4-0324303d4d7f)  |
+| SKLFS-WildFire        |[download](https://rec.ustc.edu.cn/share/dbde0240-5b1b-11f0-83c4-0324303d4d7f)  |
 
 
 ## Citation 
