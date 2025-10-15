@@ -117,14 +117,11 @@ SKLFS-WildFire
 ## Finetuned Models
 The Finetuned Model is provided:
 
-| Model                 | Download     |
-|-----------------------|--------------|
-| Single Frame FIgLib   |[download](https://rec.ustc.edu.cn/share/dbde0240-5b1b-11f0-83c4-0324303d4d7f)  |
-| Mulit-Frame FIgLib    |[download](https://rec.ustc.edu.cn/share/dbde0240-5b1b-11f0-83c4-0324303d4d7f)  |
-| SKLFS-WildFire        |[download](https://rec.ustc.edu.cn/share/dbde0240-5b1b-11f0-83c4-0324303d4d7f)  |
-
-
-## Citation 
+| Model                 | Download     | Keywords     |
+|-----------------------|--------------|--------------|
+| Single Frame FIgLib   |[download](https://pan.ustc.edu.cn/share/index/fdb1cc24554e4e6986f1?p=1)  |wdjo|
+| Mulit-Frame FIgLib    |[download](https://pan.ustc.edu.cn/share/index/fdb1cc24554e4e6986f1?p=1)  |wdjo|
+| SKLFS-WildFire        |[download](https://pan.ustc.edu.cn/share/index/fdb1cc24554e4e6986f1?p=1)  |wdjo|
 
 If you use this code or dataset in your research, please cite this paper.
 
