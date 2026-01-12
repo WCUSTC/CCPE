@@ -1,4 +1,4 @@
-#News
+# News
 🚩 Jan 2026 SKLFS-WildFire Test set is now available!!
 # CCPE
 Pytorch implementation of the paper "Wildfire Smoke Detection System: Model Architecture, Training Mechanism, and Dataset"
