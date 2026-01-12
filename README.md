@@ -65,7 +65,7 @@ FIgLib
 ```
 - **SKLFS-WildFire**
   
-We don't provide the training set of SKLFS-WildFire. You can [download](https://pan.ustc.edu.cn/share/index/863fffe6738a4749b219?p=1) key：OFfV,the testing set of SKLFS-WildFire for evaluation. 
+We don't provide the training set of SKLFS-WildFire. You can [download](https://pan.ustc.edu.cn/share/index/863fffe6738a4749b219?p=1) the testing set of SKLFS-WildFire for evaluation (key：OFfV). 
 ```
 SKLFS-WildFire
 ├── train
