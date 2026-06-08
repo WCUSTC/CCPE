@@ -47,7 +47,7 @@ mmdetection-master
 ## Data Preparation
 - **FIgLib**
 
-  Organize the dataset in the format of VOC 2007. Each subset contains a JPEGImages folder for storing images, Annotations for storing XML annotation files, and a txt format sample list
+  Organize the dataset in the format of VOC 2007. Here we provide the FIgLib dataset with supplementary annotations added by our team ( [download](https://pan.ustc.edu.cn/share/index/2e57cf9ed6664dc58608?p=1) key: IKHN ). We annotated smoke bounding boxes in the training set to facilitate the training of smoke object detection models. For the test set, please use the image-level labels provided in the original FIgLib paper. Each subset contains a JPEGImages folder for storing images, Annotations for storing XML annotation files, and a txt format sample list
 ```
 FIgLib
 ├── train
