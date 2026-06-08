@@ -1,5 +1,6 @@
 # News
 🚩 June 2026 FIgLib dataset with supplementary annotations is now available!!
+
 🚩 Jan. 2026 SKLFS-WildFire Test set is now available!!
 # CCPE
 Pytorch implementation of the paper "Wildfire Smoke Detection System: Model Architecture, Training Mechanism, and Dataset"
